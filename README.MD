@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-ramaciotti86.vercel.app/api/spotify-playing" alt="ramaciotti86 Spotify Playing" width="350" />](https://open.spotify.com/user/mmuiufe2p081waqkcny87e6oy)
+(https://open.spotify.com/user/mmuiufe2p081waqkcny87e6oy)
 
 ### Connect with me:
 
