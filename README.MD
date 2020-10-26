@@ -18,6 +18,7 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 <img align="left" alt="Docker" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_GPcHwOtEAhOjlLpQvsLhNGikDL5Z7zePVg&usqp=CAU" />
+<img align="left" alt="Kubernetes" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjte1snoB_G6qFlA3xcTNAF4-fiTfQF0iyqg&usqp=CAU" />
 <img align="left" alt="OpenStack" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/openstack-4-569296.png" />
 <img align="left" alt="Terraform" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLnmIxKm4OxDtMON5769IrARo_IJoWSDotCA&usqp=CAU" />
 <img align="left" alt="Ansible" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_Acc4FQZKGencSDNv2z3BZX0iIU6J4wColQ&usqp=CAU" />
