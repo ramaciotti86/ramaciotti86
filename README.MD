@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Developer, and other stuff!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Put what I know on GitHub
 - ⚡ Fun fact: I love to listen music, watch movies and travel
 
 ### Connect with me:
