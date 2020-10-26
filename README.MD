@@ -1,4 +1,4 @@
-### Hi there, I'm Vinicius - aka [ramaciotti86 | Vinnie] 👋
+### Hi there, I'm Vinnie - aka [ramaciotti86] 👋
 
 ## I'm a Husband, Developer, and other stuff!!
 
