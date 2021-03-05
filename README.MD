@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinnie - aka [ramaciotti86] 👋
 
-## I'm a Husband, Developer, and other stuff!!
+## I'm a Happy guy, Developer, and other stuff!!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
