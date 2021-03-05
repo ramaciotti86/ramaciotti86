@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Put what I know or what I am learning on GitHub
-- ⚡ Fun fact: I love to listen music, watch movies and travel
+- 🥅 2021 Goals: Put what I know or what I am learning on GitHub
+- ⚡ Fun fact: I love to listen music, watch movies and travel, travel, travel
 
 ### Connect with me:
 
