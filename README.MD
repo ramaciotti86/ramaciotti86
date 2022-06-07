@@ -36,11 +36,11 @@
 
 </details>
 
-<details>
+<!--details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ramaciotti86's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ramaciotti86&show_icons=true&hide_border=true" />
 
-</details>
+</details--!>
 
 [linkedin]: https://www.linkedin.com/in/vin%C3%ADcius-ramaciotti-914617b4/
