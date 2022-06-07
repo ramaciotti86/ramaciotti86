@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Put what I know or what I am learning on GitHub
+- 🥅 2022 Goals: read 2 books, at least 2 courses and keep the chin up!
 - ⚡ Fun fact: I love to listen music, watch movies and travel, travel, travel
 
 ### Connect with me:
