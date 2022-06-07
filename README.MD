@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
-<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
+<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" />
 <img align="left" alt="Docker" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_GPcHwOtEAhOjlLpQvsLhNGikDL5Z7zePVg&usqp=CAU" />
 <img align="left" alt="Kubernetes" width="26px" src="https://kubernetes.io/images/favicon.png" />
 <img align="left" alt="OpenStack" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/openstack-4-569296.png" />
@@ -35,12 +35,5 @@
 <br />
 
 </details>
-
-<!--details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ramaciotti86's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ramaciotti86&show_icons=true&hide_border=true" />
-
-</details--!>
 
 [linkedin]: https://www.linkedin.com/in/vin%C3%ADcius-ramaciotti-914617b4/
